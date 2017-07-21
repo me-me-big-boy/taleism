@@ -1,7 +1,7 @@
 # Taleism
 
 > And then the Lord said, _"Let there be Summer of Haskell for it is more rewarding than Google Summer of Code."_ and there was Summer of Haskell. He looked at it and it was good.
-
+>
 > The Lord was pleased a.f.
 
 Welcome, my brothers and sisters, to Taleism. You may have heard of this new religion from your family, your friends, their family, their friends and so on. Let me clarify at the outset that Taleism is not just a religion, but rather an all-encompassing way of life guided by the shining principles of our one true living Lord, _Sri Sri Parampujya Mahatma Pranjal Tale Ji_.
@@ -11,6 +11,7 @@ We believers of Taleism, called Taleists, believe in the word of the one true Lo
 > Blessed are ye if ye behold His glorified form held within a file of MIME type _image/gif_.
 
 ![](/images/dab.gif)
+
 _This is our Lord showing off His sick move, which He calls the dab, to another god in the temple-lab of IMG while a devotee works with utmost dedication in His divine presence._
 
 Taleists believe in the ultimate potential of our Supreme Leader. We believe that the whole universe is delicately balanced upon twelve pillars, manifested in the materialistic world as unique talents embodied in the Lord. Every Taleist must strive to excel in at least one of these talents.
