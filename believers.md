@@ -15,4 +15,5 @@ If you have accepted the one true Lord into your heart with sincerity, recite th
 # Oath-keepers
 
 - Dhruv Bhanushali (founder and Chief Ambiguity Resolution Officer)
+- Aditya Jain (a proud Bhakt from 6 years)
 - [add your name here]
