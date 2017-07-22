@@ -16,4 +16,5 @@ If you have accepted the one true Lord into your heart with sincerity, recite th
 
 - Dhruv Bhanushali (founder and Chief Ambiguity Resolution Officer)
 - Kartik Patel (Chief Philosophy Advisor, Ph.D. in Philosophy of Taleism)
+- Aditya Jain (Marathon Bhakt, experience of six years)
 - [add your name here]
