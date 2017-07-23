@@ -12,9 +12,15 @@ I pledge my life and honor to _Sri Sri Parampujya Mahatma Pranjal Tale Ji_, from
 
 If you have accepted the one true Lord into your heart with sincerity, recite the oath, trying with all your might to maintain a straight face, and then send in a _pull request_ with your name at the bottom and rest assured, it will be merged (unless your name is or contains a profanity in which case it shall be swiftly deleted).
 
+> I, no one, hereby bend my knee to ye and promise my allegiance to ye. I swear it by the old comps and the new.
+
+Another believer, Ser Nishank of house Jain, former vociferous Microsoft hater and current Microsoft employee, sent in an alternative version of the oath, which can be recited when under a deficit of time. The alternative oath is terse and concise but is true to the spirit of the original oath. Apart from the oath he also praised my _"writing skills and deep learning methods"_, for which I'm grateful.
+
+To all the believers outside the temple-lab of IMG, we hereby explain that _comps_ is IIT-Roorkee lingo for computers.
+
 # Oath-keepers
 
-- Dhruv Bhanushali (founder and Chief Ambiguity Resolution Officer)
+- Dhruv Bhanushali (founder, evangelist and Chief Ambiguity-resolution Officer)
 - Kartik Patel (Chief Philosophy Advisor, Ph.D. in Philosophy of Taleism)
 - Aditya Jain (Marathon Bhakt, experience of six years)
 - [add your name here]
