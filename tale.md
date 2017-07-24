@@ -20,9 +20,13 @@ There is a reason all the bois learn to play the guitar in college. Thanks to a 
 
 ![](images/guitar.jpg)
 
-_This is our Lord showing off his guitar skillz to the God of ML, Anushrut (looking visibly stunned), in the temple-lab of IMG. One can notice the god of SSH(D), Ankush, and demigod of terrible jokes, Rhea, seeking his blessings. In the background, Debashish, god of anime, works on with zero chill._
+_This is our Lord showing off his guitar skillz to the God of ML, Anushrut (looking visibly stunned), in the temple-lab of IMG._
+
+One can notice the god of SSH(D), Ankush, and the demigod of terrible jokes, Rhea, seeking his blessings. On closer inspection, Rhea appears to be aware of the photographer and has failed to appear candid. In the background, Debashish, the god of anime, works on with zero chill.
 
 _So many gods in IMG, eh?_
+
+Meanwhile outside the computer center, birds, frogs, dogs and cows from the nearby village have gathered to tune in to the music from the lotus hands of the Lord.
 
 ## Summer of Haskell
 
