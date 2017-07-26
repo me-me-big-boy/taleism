@@ -37,3 +37,11 @@ Meanwhile outside the computer center, birds, frogs, dogs and cows from the near
 It was a cold winter. The Lord and one of His many many disciples, Dhruv of house Bhanushali, first of his name, were working in the temple-lab of IMG. Dhruv was obviously struggling to make his first PR into Sympy whereas the Lord who beautifully balances his academics in Applied Mathematics with development was breezing through the code and easily sending PRs.
 
 Finally the Lord learnt of Haskell, a language shrouded in relative obscurity, and brought to light another summer activity manifold superior to GSoC. Although the official name acronymizes to SoH, the Lord wished it to be named HSoC and it was so. The Lord went on to take huge leaps for mankind in the fields of Haskell, functional programming and make it into HSoC. Now the Lord is rich a.f. and very pleased with himself.
+
+## Code editor
+
+> Blessed are ye if ye use **Vim** for the Lord himself uses the same. Blessed are ye if ye use **Atom** for the Lord himself uses the same. Unfortunately, if ye use an IDE like those by JetBrains (WebStorm or PyCharm or IntelliJ), there is no place for thee in the heaven promised by the Lord.
+
+The Lord was a devout Vim advocate in the early days and ferociously hated on all the people who used IDEs, especially Dhruv, of house Bhanushali, who preferred PyCharm to Vim.
+
+Eventually Summer of Haskell led to our Lord trying out and falling in love with Atom. The Lord is now open to people who use both Vim and Atom. He still hates Sublime Text users and people who use Emacs should refrain from coming in front of the Lord, lest he _shoot forth the lasers from his eyeballs_.
