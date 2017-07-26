@@ -8,9 +8,9 @@ This is a glimpse into the life of the one true Lord, our very own _Sri Sri Para
 
 Our Lord loves coffee and blesses those who consume it, the colder the better. He used to be an ardent evangelist of _doodh patti_, an alternative implementation of tea, which contains more milk and less tea but has now found that the true path to divinity is through coffee.
 
-One day in the company of God Bedi and Goddess Goyal, our overly-humble tea-loving Lord found enlightenment in the form of coffee at the canteen at Govind Bhawan, a revered place of pilgrimage for Taleists these days. He has never looked back since that day.
+One day in the company of God Bedi and Goddess Goyal, our overly-humble tea-loving Lord found enlightenment in the form of coffee at the canteen at Govind Bhawan, a revered place of pilgrimage for Taleists these days. He has never looked back since that day. He is now an avid coffee fanatic and has frequented Café Coffee Day almost every day.
 
-The Lord now understands very well how vile tea is and discourages people from consuming it.
+It was later discovered that the Lord has been actively consuming tea and is now _bi-curious_ between tea and coffee. This is good news for tea-lovers as they can now take the oath of allegiance to Lord Tale without fear of negative consequences.
 
 ## Guitar skillz
 
