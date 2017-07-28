@@ -18,6 +18,14 @@ Another believer, Ser Nishank of house Jain, former vociferous Microsoft hater a
 
 To all the believers outside the temple-lab of IMG, we hereby explain that _comps_ is IIT-Roorkee lingo for computers.
 
+> Don't call me Mona.
+
+Another believer, Mona, who now wishes to be called _Monad_ respecting the Lord's love for functional programming, has set a pretty high bar for those wanting to be known as ardent followers of the Lord. Mona's unwavering stance for following the righteous path regardless of authority and bureaucracy and obstacles deterring him from honorably discharging his duties to his faith, is an example to live by.
+
+Mona is wise.
+
+Be like Mona.  
+
 # Oath-keepers
 
 - Dhruv Bhanushali (founder, evangelist and Chief Ambiguity-resolution Officer)
