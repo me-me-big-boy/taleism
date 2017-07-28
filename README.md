@@ -34,6 +34,8 @@ Our Lord is the master of intellectual discourse.
 Our Lord manages His duties at IMG with his academics.
 0. **Oration:**
 Our Lord is the master of attention-grabbing speech.
+0. **Deception:**
+Our Lord is the master of deception, lies and secrecy.
 
 Anyone who can recall the rest is free to send us a _pull request_.
 
