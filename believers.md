@@ -31,4 +31,5 @@ Be like Mona.
 - Dhruv Bhanushali (founder, evangelist and Chief Ambiguity-resolution Officer)
 - Kartik Patel (Chief Philosophy Advisor, Ph.D. in Philosophy of Taleism)
 - Aditya Jain (Marathon Bhakt, experience of six years)
+- Rohith A.S.R.K. (A strong believer in the lord's idealogies)
 - [add your name here]
