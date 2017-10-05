@@ -34,4 +34,4 @@ Be like Mona.
 - Rohith A.S.R.K. (A strong believer in the lord's idealogies)
 - Shaddy Garg (A lowly mortal seeking lord's blessings)
 - Rhea Parekh (A naive adolescent who's earthly life was wholly revamped after encountering Lord Tale's philosophy) 
-- [add your name here]
+- Surya Saini (A soul seeking guidence under Our Lord's Light)
