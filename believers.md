@@ -24,15 +24,15 @@ Another believer, Mona, who now wishes to be called _Monad_ respecting the Lord'
 
 Mona is wise.
 
-Be like Mona.  
+Be like Mona.
 
 # Oath-keepers
 
 - Dhruv Bhanushali (founder, evangelist and Chief Ambiguity-resolution Officer)
 - Kartik Patel (Chief Philosophy Advisor, Ph.D. in Philosophy of Taleism)
-- Aditya Jain (Marathon Bhakt, experience of six years)
-- Rohith A.S.R.K. (A strong believer in the lord's idealogies)
-- Shaddy Garg (A lowly mortal seeking lord's blessings)
+- Aditya Jain (Marathon bhakt, experience of six years)
+- Rohith A.S.R.K. (A strong believer in the Lord's idealogies)
+- Shaddy Garg (A lowly mortal seeking the Lord's blessings)
 - Rhea Parekh (A naive adolescent who's earthly life was wholly revamped after encountering Lord Tale's philosophy) 
-- Surya Saini (A soul seeking guidence under Our Lord's Light)
+- Surya Saini (A soul seeking guidance under our Lord's light)
 - [add your name here]
