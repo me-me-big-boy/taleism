@@ -39,4 +39,5 @@ Be like Mona.
 - Shaddy Garg (A lowly mortal seeking the Lord's blessings)
 - Rhea Parekh (A naive adolescent who's earthly life was wholly revamped after encountering Lord Tale's philosophy) 
 - Surya Saini (A soul seeking guidance under our Lord's light)
+- Ayush Jain (A wanderer in the desert of dark world, with unshakable faith in Lord Tale and his "Margdarshan")
 - [add your name here]
