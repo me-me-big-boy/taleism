@@ -2,7 +2,7 @@
 
 > यही तो गलती है, I care about people.
 >
-> This is exactly my mistake, I care about people.
+> This is exactly my mistake, I care about people. :cry: 
 
 Once upon in time in the holy pilgrimage of Govind Bhawan canteen, the Lord said these divine words to the God of frontend development Mohit Virli, in response to Virli's statement, _"I don't give a fuck what people think."_
 
