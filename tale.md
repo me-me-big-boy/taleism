@@ -2,7 +2,7 @@
 
 This is a glimpse into the life of the one true Lord, our very own _Sri Sri Parampujya Mahatma Pranjal Tale Ji_.
 
-## Covfefe
+## Covfefe or tea
 
 > Blessed are ye if ye drinketh **covfefe**, the elixir that grants eternal productivity and not tea, the beverage of the devil that causes digestive problems.
 
