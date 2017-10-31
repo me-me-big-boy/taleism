@@ -2,7 +2,7 @@
 
 > And then the Lord said, _"Let there be Summer of Haskell for it is more rewarding than Google Summer of Code."_ and there was Summer of Haskell. He looked at it and it was good.
 >
-> The Lord was pleased a.f.
+> The Lord was pleased a.f. :smiley:
 
 Welcome, my brothers and sisters, to Taleism. You may have heard of this new religion from your family, your friends, their family, their friends and so on. Let me clarify at the outset that Taleism is not just a religion, but rather an all-encompassing way of life guided by the shining principles of our one true living Lord, _Sri Sri Parampujya Mahatma Pranjal Tale Ji_.
 
