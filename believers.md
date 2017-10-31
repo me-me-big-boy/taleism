@@ -26,6 +26,10 @@ Mona is wise.
 
 Be like Mona.
 
+# Himself
+
+- Pranjal Tale (himself)
+
 # Oath-keepers
 
 - Dhruv Bhanushali (founder, evangelist and Chief Ambiguity-resolution Officer)
