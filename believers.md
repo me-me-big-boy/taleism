@@ -40,4 +40,5 @@ Be like Mona.
 - Rhea Parekh (A naive adolescent who's earthly life was wholly revamped after encountering Lord Tale's philosophy) 
 - Surya Saini (A soul seeking guidance under our Lord's light)
 - Ayush Jain (A wanderer in the desert of dark world, with unshakable faith in Lord Tale and his "Margdarshan")
+- Praduman Goyal (A New Soul wandering confused in Desert of Applied Maths, seek for the "Margdarshan" of this desert's GOD)
 - [add your name here]
