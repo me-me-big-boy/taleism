@@ -14,7 +14,7 @@ If you have accepted the one true Lord into your heart with sincerity, recite th
 
 > I, no one, hereby bend my knee to ye and promise my allegiance to ye. I swear it by the old comps and the new.
 
-Another believer, Ser Nishank of house Jain, former vociferous Microsoft hater and current Microsoft employee, sent in an alternative version of the oath, which can be recited when under a deficit of time. The alternative oath is terse and concise but is true to the spirit of the original oath. Apart from the oath he also praised my _"writing skills and deep learning methods"_, for which I'm grateful.
+Another believer, Ser Nishank of house Jain, former vociferous Microsoft hater and current Google employee, sent in an alternative version of the oath, which can be recited when under a deficit of time. The alternative oath is terse and concise but is true to the spirit of the original oath. Apart from the oath he also praised my _"writing skills and deep learning methods"_, for which I'm grateful.
 
 To all the believers outside the temple-lab of IMG, we hereby explain that _comps_ is IIT-Roorkee lingo for computers.
 
