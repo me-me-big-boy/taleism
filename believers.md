@@ -42,4 +42,5 @@ Be like Mona.
 - Ayush Jain (A wanderer in the desert of dark world, with unshakable faith in Lord Tale and his "Margdarshan")
 - Praduman Goyal (A New Soul wandering confused in Desert of Applied Maths, seek for the "Margdarshan" of this desert's GOD)
 - Kanish (A wanderer walking through every blackened cloud and trying to find the furtive white moonlight under the mentorship of Lord.)
+- Kanti Bhanushali (A new believer who is here for the sole purpose of winning a free T-shirt)
 - [add your name here]
